@@ -1,4 +1,4 @@
-<body style="background-color:#d7e6eb;">
+<body style="background-color:#d7e6eb;"> </body>
 # <p style="text-align:center;">Alisa Nykänen Web-tehtävä</p>
 ## <p style="text-align:center;">Italics and bold</p>
 Writing in Markdown is _not_ that hard!
@@ -104,4 +104,4 @@ To doubt they were kneeling then.
 2. Pour a gallon of milk into the bowl.  
  Basically, take the same guidance as above:  
 don't be messy, but if you are, clean it up!
-</body>
+
