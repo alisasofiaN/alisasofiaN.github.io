@@ -1,4 +1,3 @@
-<body style="background-color:#d7e6eb;"> </body>
 # <p style="text-align:center;">Alisa Nykänen Web-tehtävä</p>
 ## <p style="text-align:center;">Italics and bold</p>
 Writing in Markdown is _not_ that hard!
